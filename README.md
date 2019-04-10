@@ -19,8 +19,6 @@ Just over one in three registered voters actually took part in the elections in 
 
 ## Visualisation
 
-![](https://news.files.bbci.co.uk/include/idt2/assets/7b421567-7f62-428c-9a7d-220ddce7b0ad)
-
 * Bar chart: lowest turnouts in English local elections 2018
 * Bar chart: highest turnouts in English local elections 2018
 * Column chart: Turnout in English council elections 2007-2018
