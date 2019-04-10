@@ -4,6 +4,8 @@
 
 In March 2019 we [looked at turnout in local elections in 2018](https://www.bbc.co.uk/news/uk-england-47666080) in the run-up to the 2019 elections.
 
+Just over one in three registered voters actually took part in the elections in 2018 and there were some areas where it was barely one in four.
+
 ## Get the data
 
 * [Turnouts by local authority, including radio station lookup](https://github.com/BBC-Data-Unit/council-elections-2019/blob/master/turnoutsmaster.xlsx)
