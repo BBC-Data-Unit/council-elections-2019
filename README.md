@@ -24,3 +24,6 @@ Just over one in three registered voters actually took part in the elections in 
 * Column chart: Turnout in English council elections 2007-2018
 * Infographic: Local elections 2019
 
+## Related stories
+
+* You can find all election-related stories from the data unit [tagged 'elections' on GitHub](https://github.com/search?q=topic%3Aelections+org%3ABBC-Data-Unit&type=Repositories)
